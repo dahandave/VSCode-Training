@@ -70,7 +70,7 @@ module fifo (
     end
   end
 
-
+  // comment added 
 endmodule
 
 `endif
